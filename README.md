@@ -16,7 +16,6 @@ It follows **Clean Architecture (Data / Domain / Presentation)** and leverages *
   - Auto-login offline if the user was authenticated before
 - **UI**:
   - SwiftUI + MVVM
-  - Custom `TextField` and `PasswordField` (with keyboard accessory bar removed)
 - **Dependency Injection**:
   - Powered by [Resolver](https://github.com/hmlongco/Resolver)
 - **Networking**:
