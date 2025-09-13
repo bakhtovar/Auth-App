@@ -21,7 +21,7 @@ It follows **Clean Architecture (Data / Domain / Presentation)** and leverages *
   - Powered by [Resolver](https://github.com/hmlongco/Resolver)
 - **Networking**:
   - URLSession + Combine
-  - Test APIs: [httpbin](https://httpbin.org) and [randomuser.me](https://randomuser.me)
+  - Test API: [randomuser.me](https://randomuser.me)
 - **Architecture**:
   - Data / Domain / Feature separation
   - Use Cases for business logic
